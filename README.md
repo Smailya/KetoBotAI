@@ -15,18 +15,15 @@ Getting Started
 Prerequisites
 Python 3.x
 An OpenAI API key
-Installation
-Clone this repository: git clone https://github.com/yourusername/keton-ai.git
-Install the required packages:
-bash
 
+Install the required packages:
 pip install openai
+
 Usage
 Set your OpenAI API key in the openai.api_key variable.
 Run the main.py file: python main.py
 Interact with Keton by typing your questions about food and keto diet.
 Example
-
 You: Is avocado keto-friendly?
 Chatbot: Avocado is very keto-friendly! It is high in healthy fats, moderate in protein, and low in carbs, making it an excellent choice for a ketogenic diet.
 
