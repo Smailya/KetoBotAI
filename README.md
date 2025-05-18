@@ -79,7 +79,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## Contact
 
-For inquiries or suggestions, please reach out to me on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ismail-cisse/)).
+For inquiries or suggestions, please reach out to me on [LinkedIn](https://www.linkedin.com/in/ismail-cisse/)
+
 
 ---
 
